@@ -16,13 +16,6 @@ Este es un sencillo proyecto en JavaScript, HTML y CSS que permite realizar un s
 
 ✅ Reiniciar el sorteo y comenzar de nuevo.
 
-📂 Estructura del Proyecto
-
-📁 AmigoSecreto/
-├── 📄 index.html       # Interfaz de usuario
-├── 🎨 styles.css       # Estilos del proyecto
-├── 🚀 script.js        # Lógica del sorteo
-├── 📜 README.md       # Documentación
 
 🛠️ Tecnologías Utilizadas
 
